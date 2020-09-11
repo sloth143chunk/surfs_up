@@ -14,13 +14,13 @@ The temperature trends statistical analysis showed:
 
 -	The lowest temperature recorded was 64 degrees and the highest was 85 degrees.
 
-![June Temperatures](/Resources/June_Temps.png)
+![June Temperatures](.../Resources/June_Temps.png)
 
 -	The average monthly temperature for December since 2010 has been 71 degrees.
 
 -	The lowest temperature was 56 degrees and the highest was 83 degrees.
 
-![December Temperatures](/Resources/December_Temps.png)
+![December Temperatures](.../Resources/December_Temps.png)
 
 ## Challenge Summary
 

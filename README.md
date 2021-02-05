@@ -1,12 +1,12 @@
 # Surf’s Up Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide W. Avy and the board of Surf’s Up with:
 -	A summary of temperature trends for June and December
 -	To identify if the surf shop can operate year-round
 
-## Challenge Results
+## Results
 
 The temperature trends statistical analysis showed:
 
@@ -22,7 +22,7 @@ The temperature trends statistical analysis showed:
 
 ![December Temperatures](/Resources/December_Temps.PNG)
 
-## Challenge Summary
+## Summary
 
 -	Based on the temperature data for the months of June and December, the shop can operate year-round based off highs and average temperatures.
 
